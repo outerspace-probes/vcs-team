@@ -6,11 +6,16 @@
 [node name="World" type="Node"]
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 404.211, 210.684 )
+position = Vector2( 296.211, 405.684 )
 texture = ExtResource( 1 )
 script = ExtResource( 2 )
 
 [node name="Sprite2" type="Sprite" parent="."]
-position = Vector2( 581.053, 187.526 )
+position = Vector2( 267.053, 162.526 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Sprite3" type="Sprite" parent="."]
+position = Vector2( 847.053, 246.526 )
 texture = ExtResource( 1 )
 script = ExtResource( 2 )
