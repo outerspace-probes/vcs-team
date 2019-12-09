@@ -16,6 +16,26 @@ texture = ExtResource( 1 )
 script = ExtResource( 2 )
 
 [node name="Sprite3" type="Sprite" parent="."]
-position = Vector2( 847.053, 246.526 )
+position = Vector2( 524.053, 133.526 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Sprite4" type="Sprite" parent="."]
+position = Vector2( 699.053, 143.526 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Sprite5" type="Sprite" parent="."]
+position = Vector2( 857.053, 263.526 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Sprite6" type="Sprite" parent="."]
+position = Vector2( 696.053, 331.526 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Sprite7" type="Sprite" parent="."]
+position = Vector2( 535.053, 357.526 )
 texture = ExtResource( 1 )
 script = ExtResource( 2 )
